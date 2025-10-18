@@ -45,6 +45,9 @@ export default function App() {
       {tasks.length>0 && 
       (<button onClick={clearTasks} className="clear-btn">Clear all tasks</button>)}
       
+      <footer className="site-footer">
+        <p>Copyright &copy; Punith Pvt.Ltd. All rights reserved</p>
+      </footer>
     </div>
   )
 }

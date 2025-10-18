@@ -125,3 +125,8 @@ button:focus-visible, input:focus-visible, select:focus-visible{ outline:3px sol
 
 /* Micro interactions */
 small{ color:var(--muted) }
+
+/* Footer */
+.site-footer{ margin-top:28px; text-align:center; color:var(--muted); font-size:13px }
+.site-footer p{ margin:0; padding:14px 0 }
+

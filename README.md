@@ -1,6 +1,8 @@
 
 # Taskify
 
+[![Auto Deploy](https://github.com/Punithnk/Taskify/actions/workflows/auto-deploy.yml/badge.svg)](https://github.com/Punithnk/Taskify/actions/workflows/auto-deploy.yml) [![Website](https://img.shields.io/badge/website-online-brightgreen)](https://Punithnk.github.io/Taskify/)
+
 [Live demo](https://Punithnk.github.io/Taskify/) • A minimal, friendly React task manager built with Vite.
 
 Taskify is a compact, component-driven todo app meant for learning and quick customization. Add tasks with priority and category, mark them complete, delete them, and watch a live progress bar that updates as you work.

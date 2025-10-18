@@ -46,16 +46,6 @@ Important files
 - `src/Components/Progresstracker.jsx` — Progress visualization
 - `src/Style.css` — Global styles and visual design
 
-Contributing
-- Open an issue for larger changes before starting work.
-- Keep PRs small and focused. Run `npm run build` and `npm run lint` (if you add linting) before opening a PR.
-
-License
-- Suggested: MIT — simple and permissive. Add a `LICENSE` file to apply it.
-
-Contact / Notes
-- Want automation or features added (localStorage, tests, CI)? Open an issue or ask here and I can help implement them.
-
 
 
 
